@@ -44,11 +44,14 @@ kanban-plugin: basic
 
 - [x] brandsentiment.ai-ops #kamal_setup
 
-- [x] app routing from domain to app server
+
+***
+
+## Archive
 
 - [x] Huy can deploy something to a VM provided by Envato
 
-## Archived
+- [x] app routing from domain to app server
 
 
 %% kanban:settings
