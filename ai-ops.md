@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] kamal can deploy via a bastion host #kamal_deploy
+- [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
 
-- [ ] move app secrets away from text base #kamal_deploy
+- [ ] move app secrets away from plain text base #kamal_deploy
 
 - [x] tidy up access to the kamal app server #kamal_deploy
 
@@ -32,7 +32,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] thumbnail.ai-ops #kamal_setup
+- [ ] thumbnail.ai-ops #kamal_setup @{2026/5/18}
 
 ## Completed
 
