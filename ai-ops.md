@@ -22,13 +22,13 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] csat.ai-ops #kamal_setup
-
 - [ ] CSAT migration
 
 - [ ] [[prioritize kamal app server audit points]]
 
 ## Work in progress
+
+- [ ] csat.ai-ops #kamal_setup
 
 - [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
 
