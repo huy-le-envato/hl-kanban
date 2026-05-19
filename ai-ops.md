@@ -28,6 +28,8 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] create /kamal-setup skill
+
 - [ ] csat.ai-ops #kamal_setup
 
 - [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
