@@ -28,17 +28,17 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [x] create /kamal-setup skill
-
 - [ ] csat.ai-ops #kamal_setup
 
 - [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
 
+- [x] create /kamal-setup skill
+
+- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
+
 ## Completed
 
 **Complete**
-
-- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
 
 - [x] influencer-research.ai-ops #kamal_setup
 
