@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
-
 - [ ] move app secrets away from plain text base #kamal_deploy
 
 - [x] tidy up access to the kamal app server #kamal_deploy
@@ -20,11 +18,11 @@ kanban-plugin: basic
 
 - [ ] [[agent harness for internal apps development]]
 
+- [ ] [[prompt-intel.ai-ops]] #kamal_setup #waiting
+
 ## Todo
 
 - [ ] csat.ai-ops #kamal_setup
-
-- [ ] prompt-intel.ai-ops #kamal_setup
 
 - [ ] CSAT migration
 
@@ -32,11 +30,13 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] thumbnail.ai-ops #kamal_setup @{2026/5/18}
+- [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
 
 ## Completed
 
 **Complete**
+
+- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
 
 - [x] influencer-research.ai-ops #kamal_setup
 
