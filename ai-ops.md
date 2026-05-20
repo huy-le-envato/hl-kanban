@@ -12,8 +12,6 @@ kanban-plugin: basic
 
 - [ ] change container registry and create an account for the deploy role #kamal_deploy
 
-- [ ] [[identity service for internal apps]]
-
 - [ ] [[static resource sharing]]
 
 - [ ] [[agent harness for internal apps development]]
@@ -22,23 +20,25 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] CSAT migration
-
 - [ ] [[prioritize kamal app server audit points]]
+
+- [ ] [[identity service for internal apps]]
 
 ## Work in progress
 
-- [ ] csat.ai-ops #kamal_setup
-
 - [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
+
+- [ ] CSAT migration
+
+## Completed
+
+**Complete**
 
 - [x] create /kamal-setup skill
 
 - [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
 
-## Completed
-
-**Complete**
+- [x] csat.ai-ops #kamal_setup
 
 - [x] influencer-research.ai-ops #kamal_setup
 
