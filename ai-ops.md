@@ -26,13 +26,13 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] [[kamal can deploy via a bastion host]] #kamal_deploy
-
 - [ ] CSAT migration
 
 ## Completed
 
 **Complete**
+
+- [x] [[kamal can deploy via a bastion host]] #kamal_deploy
 
 - [x] create /kamal-setup skill
 
