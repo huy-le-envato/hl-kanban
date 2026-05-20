@@ -8,8 +8,6 @@ kanban-plugin: basic
 
 - [ ] move app secrets away from plain text base #kamal_deploy
 
-- [x] tidy up access to the kamal app server #kamal_deploy
-
 - [ ] change container registry and create an account for the deploy role #kamal_deploy
 
 - [ ] [[static resource sharing]]
@@ -31,6 +29,8 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+
+- [x] tidy up access to the kamal app server #kamal_deploy
 
 - [x] [[kamal can deploy via a bastion host]] #kamal_deploy
 
