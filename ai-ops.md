@@ -20,6 +20,8 @@ kanban-plugin: basic
 
 - [ ] [[prioritize kamal app server audit points]]
 
+- [ ] ai-ops auth skill
+
 ## Work in progress
 
 - [ ] CSAT migration
