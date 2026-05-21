@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] identify user email via cloudflare JWT
+
 - [ ] move app secrets away from plain text base #kamal_deploy
 
 - [ ] change container registry and create an account for the deploy role #kamal_deploy
@@ -26,11 +28,11 @@ kanban-plugin: basic
 
 - [ ] CSAT migration
 
-- [ ] sticky bastion instance id
-
 ## Completed
 
 **Complete**
+
+- [x] sticky bastion instance id
 
 - [x] tidy up access to the kamal app server #kamal_deploy
 
