@@ -26,6 +26,8 @@ kanban-plugin: basic
 
 - [ ] CSAT migration
 
+- [ ] sticky bastion instance id
+
 ## Completed
 
 **Complete**
