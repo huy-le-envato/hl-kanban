@@ -20,8 +20,6 @@ kanban-plugin: basic
 
 - [ ] [[prioritize kamal app server audit points]]
 
-- [ ] [[identity service for internal apps]]
-
 ## Work in progress
 
 - [ ] CSAT migration
@@ -56,6 +54,8 @@ kanban-plugin: basic
 - [x] Huy can deploy something to a VM provided by Envato
 
 - [x] app routing from domain to app server
+
+- [x] [[identity service for internal apps]]
 
 
 %% kanban:settings
