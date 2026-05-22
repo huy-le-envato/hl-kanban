@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] move app secrets away from plain text base #kamal_deploy
+- [ ] move app secrets away from plain text base <br>- [ ] brandsentiment <br>- [ ] influencer-research <br>- [x] brandlens <br>- [ ] csat <br>- [ ] thumbnail #kamal_deploy
 
 - [x] sticky kamal-app-server instance id
 
