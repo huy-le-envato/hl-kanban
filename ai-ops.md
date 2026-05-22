@@ -6,16 +6,6 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] sticky kamal-app-server instance id
-
-- [ ] ai-ops auth skill
-
-- [ ] identify user email via cloudflare JWT
-
-- [ ] move app secrets away from plain text base #kamal_deploy
-
-- [ ] dont push image under account huy-le-envato #kamal_deploy
-
 - [ ] [[static resource sharing]]
 
 - [ ] [[agent harness for internal apps development]]
@@ -24,9 +14,21 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] identify user email via cloudflare JWT
+
+- [ ] ai-ops auth skill
+
+- [ ] dont push image under account huy-le-envato #kamal_deploy
+
+- [ ] move app secrets away from plain text base #kamal_deploy
+
+- [ ] sticky kamal-app-server instance id
+
 - [ ] [[prioritize kamal app server audit points]]
 
 ## Work in progress
+
+- [ ] kamal-app-server upgrade
 
 - [x] CSAT migration
 
