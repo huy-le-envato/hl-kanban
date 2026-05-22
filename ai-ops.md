@@ -4,11 +4,11 @@ kanban-plugin: basic
 
 ---
 
-## Backlog
+## Work in progress
 
-- [ ] [[static resource sharing]]
+- [ ] move app secrets away from plain text base #kamal_deploy
 
-- [ ] [[agent harness for internal apps development]]
+- [x] sticky kamal-app-server instance id
 
 ## Todo
 
@@ -18,19 +18,20 @@ kanban-plugin: basic
 
 - [ ] dont push image under account huy-le-envato #kamal_deploy
 
-- [ ] move app secrets away from plain text base #kamal_deploy
-
 - [ ] kamal-app-server optimize
 
 - [ ] [[prioritize kamal app server audit points]]
 
-## Work in progress
+## Backlog
 
-- [ ] sticky kamal-app-server instance id
+- [ ] [[static resource sharing]]
 
-## Completed
+- [ ] [[agent harness for internal apps development]]
 
-**Complete**
+
+***
+
+## Archive
 
 - [x] kamal-app-server upgrade
 
@@ -43,29 +44,6 @@ kanban-plugin: basic
 - [x] [[kamal can deploy via a bastion host]] #kamal_deploy
 
 - [x] create /kamal-setup skill
-
-
-***
-
-## Archive
-
-- [x] Huy can deploy something to a VM provided by Envato
-
-- [x] app routing from domain to app server
-
-- [x] [[identity service for internal apps]]
-
-- [x] [[prompt-intel.ai-ops]] #kamal_setup #waiting
-
-- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
-
-- [x] csat.ai-ops #kamal_setup
-
-- [x] influencer-research.ai-ops #kamal_setup
-
-- [x] brandlens.ai-ops #kamal_setup
-
-- [x] brandsentiment.ai-ops #kamal_setup
 
 
 %% kanban:settings
