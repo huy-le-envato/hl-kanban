@@ -10,8 +10,6 @@ kanban-plugin: basic
 
 - [ ] [[agent harness for internal apps development]]
 
-- [ ] [[prompt-intel.ai-ops]] #kamal_setup #waiting
-
 ## Todo
 
 - [ ] identify user email via cloudflare JWT
@@ -22,19 +20,21 @@ kanban-plugin: basic
 
 - [ ] move app secrets away from plain text base #kamal_deploy
 
-- [ ] sticky kamal-app-server instance id
+- [ ] kamal-app-server optimize
 
 - [ ] [[prioritize kamal app server audit points]]
 
 ## Work in progress
 
-- [ ] kamal-app-server upgrade
-
-- [x] CSAT migration
+- [ ] sticky kamal-app-server instance id
 
 ## Completed
 
 **Complete**
+
+- [x] kamal-app-server upgrade
+
+- [x] CSAT migration
 
 - [x] sticky bastion instance id
 
@@ -43,16 +43,6 @@ kanban-plugin: basic
 - [x] [[kamal can deploy via a bastion host]] #kamal_deploy
 
 - [x] create /kamal-setup skill
-
-- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
-
-- [x] csat.ai-ops #kamal_setup
-
-- [x] influencer-research.ai-ops #kamal_setup
-
-- [x] brandlens.ai-ops #kamal_setup
-
-- [x] brandsentiment.ai-ops #kamal_setup
 
 
 ***
@@ -64,6 +54,18 @@ kanban-plugin: basic
 - [x] app routing from domain to app server
 
 - [x] [[identity service for internal apps]]
+
+- [x] [[prompt-intel.ai-ops]] #kamal_setup #waiting
+
+- [x] thumbnail.ai-ops #kamal_setup @{2026/5/18}
+
+- [x] csat.ai-ops #kamal_setup
+
+- [x] influencer-research.ai-ops #kamal_setup
+
+- [x] brandlens.ai-ops #kamal_setup
+
+- [x] brandsentiment.ai-ops #kamal_setup
 
 
 %% kanban:settings
