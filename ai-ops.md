@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] dont push image under account huy-le-envato #kamal_deploy
 
+- [ ] a skill to guide you through env setup to deploy your apps from your laptop
+
 - [x] move app secrets away from plain text base <br>- [x] brandsentiment <br>- [x] influencer-research <br>- [x] brandlens <br>- [x] csat <br>- [x] thumbnail #kamal_deploy
 
 - [x] sticky kamal-app-server instance id
