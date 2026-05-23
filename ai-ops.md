@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] dont push image under account huy-le-envato #kamal_deploy
+- [ ] dont push image under account huy-le-envato <br>- [ ] brandsentiment <br>- [ ] influencer-research <br>- [ ] brandlens <br>- [ ] csat <br>- [...] thumbnail #kamal_deploy
 
 - [ ] a skill to guide you through env setup to deploy your apps from your laptop
 
