@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] identify user email via cloudflare JWT <br>- [ ] brandsentiment <br>- [~] influencer-research <br>- [ ] brandlens <br>- [ ] csat <br>- [ ] thumbnail
+
 - [ ] dont push image under account huy-le-envato <br>- [ ] brandsentiment <br>- [ ] influencer-research <br>- [ ] brandlens <br>- [ ] csat <br>- [~] thumbnail #kamal_deploy
 
 - [ ] a skill to guide you through env setup to deploy your apps from your laptop
@@ -16,9 +18,7 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] identify user email via cloudflare JWT
-
-- [ ] ai-ops auth skill
+- [ ] ai-ops app auth impl skill
 
 - [ ] kamal-app-server optimize
 
