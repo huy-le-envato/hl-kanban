@@ -10,9 +10,9 @@ kanban-plugin: basic
 
 - [ ] fix generate error, merge deploy config to main #thumbnail
 
-- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
-
 - [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
+
+- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
 - [x] [[identify user email via cloudflare JWT]] #identity
 
