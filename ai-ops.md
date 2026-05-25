@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] fix CSAT migration drift
+
 - [ ] fix generate error, merge deploy config to main #thumbnail
 
 - [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
@@ -24,11 +26,11 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[ai-ops app auth impl skill]] #team_deploy
-
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
 - [ ] [[remote builder on aws]] #team_deploy
+
+- [ ] [[ai-ops app auth impl skill]] #team_deploy
 
 - [ ] [[kamal-app-server optimize]]
 
@@ -50,8 +52,6 @@ kanban-plugin: basic
 ## Archive
 
 - [x] kamal-app-server upgrade
-
-- [x] CSAT migration
 
 - [x] sticky bastion instance id
 
