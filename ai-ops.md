@@ -10,25 +10,27 @@ kanban-plugin: basic
 
 - [ ] fix generate error, merge deploy config to main #thumbnail
 
-- [ ] [[identify user email via cloudflare JWT]]
+- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
-- [ ] cloudflare identity server
+- [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
 
-- [ ] [[dont push image under account huy-le-envato]] #kamal_deploy
+- [x] [[identify user email via cloudflare JWT]] #identity
 
-- [ ] a skill to guide you through env setup to deploy your apps from your laptop
+- [x] cloudflare identity server #identity
 
-- [x] [[move app secrets away from plain text base]] #kamal_deploy
+- [x] [[move app secrets away from plain text base]] #team_deploy
 
 - [x] sticky kamal-app-server instance id
 
 ## Todo
 
-- [ ] move secrets to team vault
+- [ ] [[ai-ops app auth impl skill]] #team_deploy
 
-- [ ] ai-ops app auth impl skill
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
-- [ ] kamal-app-server optimize
+- [ ] [[remote builder on aws]] #team_deploy
+
+- [ ] [[kamal-app-server optimize]]
 
 - [ ] [[prioritize kamal app server audit points]]
 
@@ -38,7 +40,7 @@ kanban-plugin: basic
 
 - [ ] [[agent harness for internal apps development]]
 
-- [ ] CI/CD
+- [ ] [[CI-CD]]
 
 
 ***
@@ -51,9 +53,9 @@ kanban-plugin: basic
 
 - [x] sticky bastion instance id
 
-- [x] tidy up access to the kamal app server #kamal_deploy
+- [x] tidy up access to the kamal app server #team_deploy
 
-- [x] [[kamal can deploy via a bastion host]] #kamal_deploy
+- [x] [[kamal can deploy via a bastion host]] #team_deploy
 
 - [x] create /kamal-setup skill
 
