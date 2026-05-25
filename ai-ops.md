@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] fix CSAT migration drift
+- [ ] fix CSAT classification
 
 - [ ] fix generate error, merge deploy config to main #thumbnail
 
@@ -52,6 +52,8 @@ kanban-plugin: basic
 ## Archive
 
 - [x] kamal-app-server upgrade
+
+- [x] CSAT migration
 
 - [x] sticky bastion instance id
 
