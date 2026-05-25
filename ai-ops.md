@@ -42,6 +42,8 @@ kanban-plugin: basic
 
 - [ ] [[CI-CD]]
 
+- [ ] self-hosted llm for our apps
+
 
 ***
 
