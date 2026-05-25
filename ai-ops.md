@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] merge deploy config to main and redeploy #brandlens
-
 - [ ] fix generate error, merge deploy config to main #thumbnail
 
 - [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+
+- [x] merge deploy config to main and redeploy #brandlens
 
 - [x] [[identify user email via cloudflare JWT]] #identity
 
