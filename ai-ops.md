@@ -6,6 +6,10 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] merge deploy config to main and redeploy #brandlens
+
+- [ ] fix generate error, merge deploy config to main #thumbnail
+
 - [ ] [[identify user email via cloudflare JWT]]
 
 - [ ] cloudflare identity server
