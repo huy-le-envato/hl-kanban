@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] fix CSAT classification
-
-- [ ] fix generate error, merge deploy config to main #thumbnail
+- [ ] Stabilise CSAT classification
 
 - [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+
+- [x] fix generate error, merge deploy config to main #thumbnail
 
 - [x] merge deploy config to main and redeploy #brandlens
 
