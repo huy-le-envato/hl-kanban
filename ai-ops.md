@@ -12,9 +12,9 @@ kanban-plugin: basic
 
 - [ ] Stabilise CSAT classification
 
-- [ ] [[dont push image under account huy-le-envato]] #team_deploy
-
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+
+- [x] [[dont push image under account huy-le-envato]] #team_deploy
 
 - [x] fix generate error, merge deploy config to main #thumbnail
 
