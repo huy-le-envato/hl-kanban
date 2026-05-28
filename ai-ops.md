@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] Stabilise CSAT classification
 
-- [ ] [[dont push image under account huy-le-envato]] #BLOCKED #team_deploy
+- [ ] [[dont push image under account huy-le-envato]] #team_deploy
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
@@ -26,17 +26,19 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] [[ai-ops app auth impl skill]] #team_deploy
+
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
 - [ ] [[remote builder on aws]] #team_deploy
 
-- [ ] [[ai-ops app auth impl skill]] #team_deploy
+## Backlog
 
-- [ ] [[kamal-app-server optimize]]
+- [ ] [[a-b testing plan for minimax-2.7 uses]]
 
 - [ ] [[prioritize kamal app server audit points]]
 
-## Backlog
+- [ ] [[kamal-app-server optimize]]
 
 - [ ] [[static resource sharing]]
 
