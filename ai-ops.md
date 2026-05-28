@@ -6,6 +6,10 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] fix Sparky error on CSAT
+
+- [ ] [[ai-ops app auth impl skill]] #team_deploy
+
 - [ ] Stabilise CSAT classification
 
 - [ ] [[dont push image under account huy-le-envato]] #team_deploy
@@ -25,8 +29,6 @@ kanban-plugin: basic
 - [x] sticky kamal-app-server instance id
 
 ## Todo
-
-- [ ] [[ai-ops app auth impl skill]] #team_deploy
 
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
