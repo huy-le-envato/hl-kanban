@@ -6,11 +6,9 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] fix Sparky error on CSAT
+- [ ] Stabilise CSAT classification
 
 - [ ] [[ai-ops app auth impl skill]] #team_deploy
-
-- [ ] Stabilise CSAT classification
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
@@ -34,7 +32,11 @@ kanban-plugin: basic
 
 - [ ] [[remote builder on aws]] #team_deploy
 
+- [ ] fix Sparky error on CSAT
+
 ## Backlog
+
+- [ ] review user journey brief
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]]
 
