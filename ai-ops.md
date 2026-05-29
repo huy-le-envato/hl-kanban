@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] [[ai-ops app auth impl skill]] #team_deploy
 
+- [ ] [[remote builder on aws]] #team_deploy
+
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
 - [x] Stabilise CSAT classification
@@ -29,8 +31,6 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
-
-- [ ] [[remote builder on aws]] #team_deploy
 
 - [ ] fix Sparky error on CSAT
 
