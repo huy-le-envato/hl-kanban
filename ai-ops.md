@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] [[ai-ops app auth impl skill]] #team_deploy
+- [ ] [[ai-ops app auth impl skill]] #harness
 
 - [ ] [[remote builder on aws]] #team_deploy
 
