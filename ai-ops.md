@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] Stabilise CSAT classification
-
 - [ ] [[ai-ops app auth impl skill]] #team_deploy
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+
+- [x] Stabilise CSAT classification
 
 - [x] [[dont push image under account huy-le-envato]] #team_deploy
 
@@ -34,9 +34,13 @@ kanban-plugin: basic
 
 - [ ] fix Sparky error on CSAT
 
+- [ ] [[CI-CD]]
+
 ## Backlog
 
 - [ ] review user journey brief
+
+- [ ] data retention policy
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]]
 
@@ -47,8 +51,6 @@ kanban-plugin: basic
 - [ ] [[static resource sharing]]
 
 - [ ] [[agent harness for internal apps development]]
-
-- [ ] [[CI-CD]]
 
 - [ ] self-hosted llm for our apps
 
