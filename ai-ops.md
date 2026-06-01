@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] [[ai-ops app auth impl skill]] #harness
+- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+
+- [ ] [[ai-ops app auth impl skill]] #fetch
 
 - [ ] [[remote builder on aws]] #team_deploy
-
-- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
 - [x] Stabilise CSAT classification
 
@@ -36,11 +36,13 @@ kanban-plugin: basic
 
 - [ ] [[CI-CD]]
 
+- [ ] [[agent harness for internal apps development]]
+
 ## Backlog
 
-- [ ] review user journey brief
+- [ ] [[review user journey brief]]
 
-- [ ] data retention policy
+- [ ] [[data retention policy]]
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]]
 
@@ -49,8 +51,6 @@ kanban-plugin: basic
 - [ ] [[kamal-app-server optimize]]
 
 - [ ] [[static resource sharing]]
-
-- [ ] [[agent harness for internal apps development]]
 
 - [ ] self-hosted llm for our apps
 
