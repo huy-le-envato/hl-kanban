@@ -6,9 +6,11 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
+
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
-- [ ] [[ai-ops app auth impl skill]] #fetch
+- [x] [[ai-ops app auth impl skill]] #fetch
 
 - [ ] [[remote builder on aws]] #team_deploy
 
@@ -32,15 +34,13 @@ kanban-plugin: basic
 
 - [ ] deploy content-engine
 
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
-
 - [ ] fix Sparky error on CSAT
-
-- [ ] [[CI-CD]]
 
 - [ ] [[agent harness for internal apps development]]
 
 ## Backlog
+
+- [ ] [[CI-CD]]
 
 - [ ] [[review user journey brief]]
 
