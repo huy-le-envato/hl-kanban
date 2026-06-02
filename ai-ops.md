@@ -30,6 +30,8 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] deploy content-engine
+
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
 - [ ] fix Sparky error on CSAT
