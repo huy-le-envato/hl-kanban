@@ -18,20 +18,6 @@ kanban-plugin: basic
 
 - [x] Stabilise CSAT classification
 
-- [x] [[dont push image under account huy-le-envato]] #team_deploy
-
-- [x] fix generate error, merge deploy config to main #thumbnail
-
-- [x] merge deploy config to main and redeploy #brandlens
-
-- [x] [[identify user email via cloudflare JWT]] #identity
-
-- [x] cloudflare identity server #identity
-
-- [x] [[move app secrets away from plain text base]] #team_deploy
-
-- [x] sticky kamal-app-server instance id
-
 ## Todo
 
 - [ ] [[remote builder on aws]] #team_deploy
@@ -62,6 +48,20 @@ kanban-plugin: basic
 ***
 
 ## Archive
+
+- [x] [[dont push image under account huy-le-envato]] #team_deploy
+
+- [x] fix generate error, merge deploy config to main #thumbnail
+
+- [x] merge deploy config to main and redeploy #brandlens
+
+- [x] [[identify user email via cloudflare JWT]] #identity
+
+- [x] cloudflare identity server #identity
+
+- [x] [[move app secrets away from plain text base]] #team_deploy
+
+- [x] sticky kamal-app-server instance id
 
 - [x] kamal-app-server upgrade
 
