@@ -6,13 +6,15 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
+- [ ] [[data retention policy]]
 
 - [ ] move deploy secrets to team vault #BLOCKED #team_deploy
 
-- [x] [[ai-ops app auth impl skill]] #fetch
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
 
-- [ ] [[remote builder on aws]] #team_deploy
+- [x] design-desk can talk to brandlens
+
+- [x] [[ai-ops app auth impl skill]] #fetch
 
 - [x] Stabilise CSAT classification
 
@@ -32,6 +34,8 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] [[remote builder on aws]] #team_deploy
+
 - [ ] deploy content-engine
 
 - [ ] fix Sparky error on CSAT
@@ -43,8 +47,6 @@ kanban-plugin: basic
 - [ ] [[CI-CD]]
 
 - [ ] [[review user journey brief]]
-
-- [ ] [[data retention policy]]
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]]
 
