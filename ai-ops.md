@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] move deploy secrets to team vault #team_deploy
 
+- [x] fix Sparky error on CSAT
+
 - [x] enable translation on csat staging
 
 - [x] [[data retention policy]] <br>MVP
@@ -22,15 +24,15 @@ kanban-plugin: basic
 
 - [ ] deploy content-engine
 
-- [ ] fix Sparky error on CSAT
-
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
 
 - [ ] [[user journey mvp]] #mvp
 
-## Backlog
-
 - [ ] [[remote builder on aws]] #team_deploy
+
+- [ ] make retention warden agent friendly
+
+## Backlog
 
 - [ ] [[agent harness for internal apps development]] #mvp
 
