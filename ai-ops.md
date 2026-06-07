@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] move deploy secrets to team vault #team_deploy
 
+- [x] enable translation on csat staging
+
 - [x] [[data retention policy]] <br>MVP
 
 - [x] design-desk can talk to brandlens
@@ -19,8 +21,6 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] deploy content-engine
-
-- [ ] enable translation on csat staging
 
 - [ ] fix Sparky error on CSAT
 
