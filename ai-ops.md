@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] enable translation on csat staging
-
 - [ ] move deploy secrets to team vault #team_deploy
 
 - [x] [[data retention policy]] <br>MVP
@@ -20,23 +18,25 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
-
 - [ ] deploy content-engine
+
+- [ ] enable translation on csat staging
 
 - [ ] fix Sparky error on CSAT
 
-- [ ] [[user journey mvp]]
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
+
+- [ ] [[user journey mvp]] #mvp
 
 ## Backlog
 
 - [ ] [[remote builder on aws]] #team_deploy
 
-- [ ] [[agent harness for internal apps development]]
+- [ ] [[agent harness for internal apps development]] #mvp
 
 - [ ] [[CI-CD]]
 
-- [ ] [[a-b testing plan for minimax-2.7 uses]]
+- [ ] [[a-b testing plan for minimax-2.7 uses]] #sandbox
 
 - [ ] [[prioritize kamal app server audit points]]
 
@@ -44,7 +44,7 @@ kanban-plugin: basic
 
 - [ ] [[static resource sharing]]
 
-- [ ] self-hosted llm for our apps
+- [ ] self-hosted llm for our apps #sandbox
 
 
 ***
