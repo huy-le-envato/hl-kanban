@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] [[data retention policy]]
+- [ ] enable translation on csat staging
 
-- [ ] move deploy secrets to team vault #BLOCKED #team_deploy
+- [ ] move deploy secrets to team vault #team_deploy
 
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #team_deploy
+- [x] [[data retention policy]] <br>MVP
 
 - [x] design-desk can talk to brandlens
 
@@ -20,19 +20,21 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[remote builder on aws]] #team_deploy
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
 
 - [ ] deploy content-engine
 
 - [ ] fix Sparky error on CSAT
 
-- [ ] [[agent harness for internal apps development]]
+- [ ] [[user journey mvp]]
 
 ## Backlog
 
-- [ ] [[CI-CD]]
+- [ ] [[remote builder on aws]] #team_deploy
 
-- [ ] [[review user journey brief]]
+- [ ] [[agent harness for internal apps development]]
+
+- [ ] [[CI-CD]]
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]]
 
@@ -48,32 +50,6 @@ kanban-plugin: basic
 ***
 
 ## Archive
-
-- [x] [[dont push image under account huy-le-envato]] #team_deploy
-
-- [x] fix generate error, merge deploy config to main #thumbnail
-
-- [x] merge deploy config to main and redeploy #brandlens
-
-- [x] [[identify user email via cloudflare JWT]] #identity
-
-- [x] cloudflare identity server #identity
-
-- [x] [[move app secrets away from plain text base]] #team_deploy
-
-- [x] sticky kamal-app-server instance id
-
-- [x] kamal-app-server upgrade
-
-- [x] CSAT migration
-
-- [x] sticky bastion instance id
-
-- [x] tidy up access to the kamal app server #team_deploy
-
-- [x] [[kamal can deploy via a bastion host]] #team_deploy
-
-- [x] create /kamal-setup skill
 
 
 %% kanban:settings
