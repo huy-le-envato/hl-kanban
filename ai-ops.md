@@ -28,25 +28,31 @@ kanban-plugin: basic
 
 - [ ] [[user journey mvp]] #mvp
 
+- [ ] agent sandbox for minimax uses
+
 - [ ] [[remote builder on aws]] #team_deploy
 
 - [ ] make retention warden agent friendly
 
-## Backlog
-
 - [ ] [[agent harness for internal apps development]] #mvp
 
-- [ ] [[CI-CD]]
+## Backlog
+
+- [ ] observability on internal app usage???
+
+- [ ] security scans report for each app
+
+- [ ] [[static resource sharing]]
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]] #sandbox
+
+- [ ] self-hosted llm for our apps #sandbox
 
 - [ ] [[prioritize kamal app server audit points]]
 
 - [ ] [[kamal-app-server optimize]]
 
-- [ ] [[static resource sharing]]
-
-- [ ] self-hosted llm for our apps #sandbox
+- [ ] [[CI-CD]]
 
 
 ***

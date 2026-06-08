@@ -1,5 +1,8 @@
 # agent harness for internal apps development
 
+## updates
+- [x] physical barriers to the data retention repo
+
 [thread](https://envato.slack.com/archives/C0AMKVD5Y64/p1777274947443889)
 [repo](https://github.com/huy-le-envato/ai-ops-harness)
 
