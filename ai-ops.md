@@ -28,7 +28,7 @@ kanban-plugin: basic
 
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
 
-- [ ] [[agent harness for internal apps development]] #mvp
+- [ ] [[agent harness for internal apps development]] #mvp #fetch
 
 ## Backlog
 
