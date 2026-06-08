@@ -6,7 +6,11 @@ kanban-plugin: basic
 
 ## Work in progress
 
+- [ ] deploy content-engine
+
 - [ ] move deploy secrets to team vault #team_deploy
+
+- [ ] make retention warden agent friendly
 
 - [x] fix Sparky error on CSAT
 
@@ -16,15 +20,11 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] deploy content-engine
-
 - [ ] [[user journey mvp]] #mvp
 
 - [ ] agent sandbox for minimax uses
 
 - [ ] [[remote builder on aws]] #team_deploy
-
-- [ ] make retention warden agent friendly
 
 - [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
 
@@ -36,11 +36,12 @@ kanban-plugin: basic
 
 - [ ] [[kamal-app-server optimize]]
 
-- [ ] observability on internal app usage???
-
 - [ ] security scans report for each app
 
 - [ ] [[static resource sharing]]
+
+- [ ] observability on internal app usage???
+
 
 ***
 
