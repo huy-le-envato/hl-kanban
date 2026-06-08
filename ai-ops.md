@@ -14,17 +14,9 @@ kanban-plugin: basic
 
 - [x] [[data retention policy]] <br>MVP
 
-- [x] design-desk can talk to brandlens
-
-- [x] [[ai-ops app auth impl skill]] #fetch
-
-- [x] Stabilise CSAT classification
-
 ## Todo
 
 - [ ] deploy content-engine
-
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
 
 - [ ] [[user journey mvp]] #mvp
 
@@ -34,9 +26,15 @@ kanban-plugin: basic
 
 - [ ] make retention warden agent friendly
 
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
+
 - [ ] [[agent harness for internal apps development]] #mvp
 
 ## Backlog
+
+- [ ] [[prioritize kamal app server audit points]]
+
+- [ ] [[kamal-app-server optimize]]
 
 - [ ] observability on internal app usage???
 
@@ -44,20 +42,21 @@ kanban-plugin: basic
 
 - [ ] [[static resource sharing]]
 
+***
+
+## Archive
+
 - [ ] [[a-b testing plan for minimax-2.7 uses]] #sandbox
 
 - [ ] self-hosted llm for our apps #sandbox
 
-- [ ] [[prioritize kamal app server audit points]]
-
-- [ ] [[kamal-app-server optimize]]
-
 - [ ] [[CI-CD]]
 
+- [x] [[ai-ops app auth impl skill]] #fetch
 
-***
+- [x] design-desk can talk to brandlens
 
-## Archive
+- [x] Stabilise CSAT classification
 
 
 %% kanban:settings
