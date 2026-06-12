@@ -24,6 +24,8 @@ kanban-plugin: basic
 
 - [ ] move deploy secrets to team vault #team_deploy
 
+- [ ] wire deterministic guardrails in apps
+
 - [ ] [[user journey mvp]] #mvp
 
 - [ ] agent sandbox for minimax uses
