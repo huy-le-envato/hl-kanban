@@ -20,6 +20,8 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] csat for old surveys
+
 - [ ] move deploy secrets to team vault #team_deploy
 
 - [ ] [[user journey mvp]] #mvp
