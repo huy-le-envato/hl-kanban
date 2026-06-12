@@ -8,7 +8,9 @@ kanban-plugin: basic
 
 - [ ] deploy content-engine
 
-- [ ] make retention warden agent friendly
+- [x] retention warden can purge old data in Influencer Research app
+
+- [x] make retention warden agent friendly
 
 - [x] fix Sparky error on CSAT
 
@@ -17,8 +19,6 @@ kanban-plugin: basic
 - [x] [[data retention policy]] <br>MVP
 
 ## Todo
-
-- [ ] retention warden can purge old data in Influencer Research app
 
 - [ ] move deploy secrets to team vault #team_deploy
 
@@ -34,13 +34,13 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] [[static resource sharing]]
+
 - [ ] [[prioritize kamal app server audit points]]
 
 - [ ] [[kamal-app-server optimize]]
 
 - [ ] security scans report for each app
-
-- [ ] [[static resource sharing]]
 
 - [ ] observability on internal app usage???
 
