@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] deploy content-engine
+- [x] deploy content-engine
 
 - [x] retention warden can purge old data in Influencer Research app
 
@@ -21,6 +21,8 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] csat for old surveys
+
+- [ ] move app server private key to team vault
 
 - [ ] move deploy secrets to team vault #team_deploy
 
