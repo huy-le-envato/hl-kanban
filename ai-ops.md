@@ -20,6 +20,8 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] skill to rotate app server private key
+
 - [ ] [[user journey mvp]] #mvp
 
 - [ ] agent sandbox for minimax uses
