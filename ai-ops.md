@@ -6,7 +6,9 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [ ] csat for old surveys
+- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
+
+- [ ] skill to rotate app server private key
 
 - [ ] move app server private key to team vault
 
@@ -20,17 +22,15 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] skill to rotate app server private key
+- [ ] csat for old surveys
 
 - [ ] [[user journey mvp]] #mvp
+
+- [ ] [[agent harness for internal apps development]] #mvp #fetch
 
 - [ ] agent sandbox for minimax uses
 
 - [ ] [[remote builder on aws]] #team_deploy
-
-- [ ] [[a skill to guide you through env setup to deploy your apps from your laptop]] #fetch
-
-- [ ] [[agent harness for internal apps development]] #mvp #fetch
 
 ## Backlog
 
