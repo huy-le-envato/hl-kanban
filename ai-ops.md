@@ -6,20 +6,6 @@ kanban-plugin: basic
 
 ## Work in progress
 
-- [x] deploy content-engine
-
-- [x] retention warden can purge old data in Influencer Research app
-
-- [x] make retention warden agent friendly
-
-- [x] fix Sparky error on CSAT
-
-- [x] enable translation on csat staging
-
-- [x] [[data retention policy]] <br>MVP
-
-## Todo
-
 - [ ] csat for old surveys
 
 - [ ] move app server private key to team vault
@@ -27,6 +13,12 @@ kanban-plugin: basic
 - [ ] move deploy secrets to team vault #team_deploy
 
 - [ ] wire deterministic guardrails in apps
+
+- [x] deploy content-engine
+
+- [x] retention warden can purge old data in Influencer Research app
+
+## Todo
 
 - [ ] [[user journey mvp]] #mvp
 
@@ -54,6 +46,14 @@ kanban-plugin: basic
 ***
 
 ## Archive
+
+- [x] make retention warden agent friendly
+
+- [x] fix Sparky error on CSAT
+
+- [x] enable translation on csat staging
+
+- [x] [[data retention policy]] <br>MVP
 
 - [ ] [[a-b testing plan for minimax-2.7 uses]] #sandbox
 
